@@ -1,8 +1,8 @@
-![logo](https://github.com/RitikAgarwa1412/Ritik/blob/main/98280c9ae6e97b29681fccbf04e57117.gif)
+![logo](https://github.com/RitikAgarwal1412/RitikAgarwal1412/blob/79ea95bd0dc223c2b701ee87644791059ccbbab7/big-data-analytics-illustration-dark-background_488220-9906.jpg)
 <h1 align="center">Hi 👋, I'm Ritik Agarwal</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/RitikAgarwa1412/Ritik/blob/main/98280c9ae6e97b29681fccbf04e57117.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/RitikAgarwal1412/RitikAgarwal1412/blob/79ea95bd0dc223c2b701ee87644791059ccbbab7/98280c9ae6e97b29681fccbf04e57117.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikagarwal1412&label=Profile%20views&color=0e75b6&style=flat" alt="ritikagarwal1412" /> </p>
 
